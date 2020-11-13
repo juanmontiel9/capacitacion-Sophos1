@@ -8,7 +8,7 @@ public class AnalizarTexto {
 		this.oracion = oracion;
 	}
 	
-	public int contarNumeroDePalabras() {
+	public  int contarNumeroDePalabras() {
 		
 		return oracion.trim().split(" ").length;
 	}

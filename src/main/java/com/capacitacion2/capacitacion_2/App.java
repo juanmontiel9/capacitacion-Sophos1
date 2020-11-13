@@ -17,7 +17,7 @@ public class App
     public static void main( String[] args )
     {
     	String oracion = " esta clase es de pruebas unitarias ";
-        System.out.println("el numero de palabras de la oracion es: " + AnalizarTexto.contarNumeroDePalabras());
+        //System.out.println("el numero de palabras de la oracion es: " + AnalizarTexto.contarNumeroDePalabras());
    
     }
     
